@@ -8,8 +8,6 @@ permalink: /museums/
 
 My collection of museum visits and reviews.
 
-A collection of museum reviews and visits.
-
 ## Reviews
 
-- [National Nordic Museum](/museums/museum-of-flight/)
+- [National Nordic Museum](/museums/national-nordic-museum/)

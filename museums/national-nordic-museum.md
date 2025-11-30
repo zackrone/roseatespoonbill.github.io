@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Museum of Flight
+title: National Nordic Museum
 permalink: /museums/national-nordic-museum/
 ---
 

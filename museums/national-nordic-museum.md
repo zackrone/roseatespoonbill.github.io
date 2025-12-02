@@ -1,17 +1,18 @@
 ---
 layout: page
 title: National Nordic Museum
-permalink: /museums/national-nordic-museum/
 ---
 
 # National Nordic Museum
 
 **Location:** Seattle, WA  
-**Date Visited:** [Date]
+**Date Visited:** 2025-12-01
 
 ## Review
 
 Your review content here.
+
+**Rating:** 5/10
 
 ---
 

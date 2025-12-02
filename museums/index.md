@@ -16,4 +16,4 @@ There are three (semi-overlapping) criteria I’ll be evaluating for each museum
 
 ## Reviews
 
-- [National Nordic Museum](/museums/national-nordic-museum/)
+- [National Nordic Museum](./national-nordic-museum.md)

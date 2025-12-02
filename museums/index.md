@@ -3,8 +3,6 @@ layout: page
 title: Museums
 ---
 
-# Museums
-
 A list of all museums I have visited and/or plan to visit. 
 Each museum is rated 1-5 stars alongside a brief description of the museum itself and my thoughts. 
 There are three (semi-overlapping) criteria I’ll be evaluating for each museum:
@@ -16,3 +14,7 @@ There are three (semi-overlapping) criteria I’ll be evaluating for each museum
 ## Reviews
 
 - [National Nordic Museum](./national-nordic-museum.md)
+
+---
+
+[← Back to Home](../index.md)

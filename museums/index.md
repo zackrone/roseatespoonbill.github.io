@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Museums
-permalink: /museums/
 ---
 
 # Museums

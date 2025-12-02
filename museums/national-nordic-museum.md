@@ -16,4 +16,4 @@ Your review content here.
 
 ---
 
-[← Back to Museums](/museums/)
+[← Back to Museums](./index.md)

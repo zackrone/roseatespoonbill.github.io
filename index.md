@@ -15,6 +15,10 @@ Lorem ipsum.
 
 #### GMTK Game Jam 2026
 
-https://github.com/user-attachments/assets/f1cbb2e9-80ce-4fac-a147-42eb891626bc
+https://github.com/user-attachments/assets/d6f7dc21-e1d5-4813-b24a-52942ed69e4c
+
+https://github.com/user-attachments/assets/eac3ad39-abee-49cc-9cb6-8759bf947d85
+
+
 
 

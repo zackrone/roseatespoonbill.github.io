@@ -13,8 +13,9 @@ Lorem ipsum.
 
 ## Music
 
-#### GMTK Game Jam 2026
+### GMTK Game Jam 2026
 
-https://github.com/user-attachments/assets/d6f7dc21-e1d5-4813-b24a-52942ed69e4c
-
-https://github.com/user-attachments/assets/eac3ad39-abee-49cc-9cb6-8759bf947d85
+<audio controls>
+  <source src="audio/CountDown-Menu-Theme-spoonbill.wav" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>

@@ -15,7 +15,16 @@ Lorem ipsum.
 
 ### GMTK Game Jam 2026
 
+**Menu Theme**
+
 <audio controls>
   <source src="audio/CountDown-Menu-Theme-spoonbill.wav" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+**Battle Theme**
+
+<audio controls>
+  <source src="audio/CountDown-Battle-Theme-spoonbill.wav" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>

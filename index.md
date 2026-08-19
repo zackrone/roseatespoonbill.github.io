@@ -5,7 +5,7 @@ title: Home
 
 # Roseate Spoonbill
 
-An attempt to reconcile a complicated relationship with journaling.
+Lorem ipsum.
 
 ## Writing
 
@@ -21,6 +21,8 @@ Lorem ipsum.
   <source src="audio/BluesBattle.wav" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+
+<br>
 
 
 ### GMTK Game Jam 2026

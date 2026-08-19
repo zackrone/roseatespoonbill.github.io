@@ -13,6 +13,16 @@ Lorem ipsum.
 
 ## Music
 
+### 18 August 2026
+
+**Blues Battle**
+
+<audio controls>
+  <source src="audio/BluesBattle.wav" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
 ### GMTK Game Jam 2026
 
 **Menu Theme**
